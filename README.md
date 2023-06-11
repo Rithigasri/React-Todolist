@@ -1,5 +1,6 @@
 # EXPERIMENT 05:DEVELOP A TO DO LIST USING REACT FRAMEWORK
-
+## AIM:
+To develop a to-do list using react framework.
 ## ALGORITHM:
 1. Cretae a new react project named todolist.
 2. Import required hooks from the react.
@@ -191,4 +192,4 @@ export default App;
 ![image](https://github.com/Rithigasri/React-Todolist/assets/93427256/ba8769f8-3022-4dde-8edb-a1d51de4484c)
 
 ## RESULT:
-Thus, a to do list using react framework is developed succesfully.
+Thus, a to-do list using react framework is developed succesfully.
