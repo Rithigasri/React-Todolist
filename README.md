@@ -1,4 +1,12 @@
-# DEVELOP A TO DO LIST USING REACT FRAMEWORK
+# EXPERIMENT 05:DEVELOP A TO DO LIST USING REACT FRAMEWORK
+
+## ALGORITHM:
+1. Cretae a new react project named todolist.
+2. Import required hooks from the react.
+3. Program the function App() with required components.
+4. Export the default app at the endd of function component.
+5. Add required styling to the component.
+6. Display the project using the command npm start.
 ## PROGRAM:
 ```
 DEVELOPED BY: RITHIGA SRI.B
